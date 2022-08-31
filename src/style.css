@@ -1,0 +1,25 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: open sans;
+  
+  
+  }
+  
+
+
+#img-caption 
+{
+  width: 400px;
+ 
+}
+
+#image
+{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+ 
+
